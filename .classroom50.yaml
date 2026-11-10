@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "144-web-dev-i"
+assignment: "tutorial-5-notes"
+owner:
+  username: "TaykiaHayes1"
+  id: 321918974
+  accepted_at: "2026-11-10T15:39:10Z"
+source:
+  owner: "144Fa26"
+  owner_id: 299228787
+  repo: "tutorial5notes"
+  branch: "main"
